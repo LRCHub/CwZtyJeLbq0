@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "base_track": "Get Your Wish",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2026-04-05T01:42:28.428575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Your Wish",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/01_Get_Your_Wish_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Get Your Wish",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/02_Get_Your_Wish_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get Your Wish - DJ NOT PORTER ROBINSON Remix",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/03_Get_Your_Wish_-_DJ_NOT_PORTER_ROBINSON_Remix_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get Your Wish - Anamanaguchi Remix",
+      "artist": "Porter Robinson feat. Anamanaguchi",
+      "has_synced": false,
+      "path": "select/04_Get_Your_Wish_-_Anamanaguchi_Remix_Porter_Robinson_feat._Anamanaguchi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get Your Wish (Anamanaguchi Remix)",
+      "artist": "Anamanaguchi",
+      "has_synced": true,
+      "path": "select/05_Get_Your_Wish_(Anamanaguchi_Remix)_Anamanaguchi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Get Your Wish (Anamanaguchi Remix) [Mixed]",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/06_Get_Your_Wish_(Anamanaguchi_Remix)_[Mixed]_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Your Wish (Live)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/07_Get_Your_Wish_(Live)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get Your Wish (Anamanaguchi Remix)",
+      "artist": "Anamanaguchi",
+      "has_synced": false,
+      "path": "select/08_Get_Your_Wish_(Anamanaguchi_Remix)_Anamanaguchi.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get Your Wish - Anamanaguchi Remix",
+      "artist": "Porter Robinson, Anamanaguchi",
+      "has_synced": true,
+      "path": "select/09_Get_Your_Wish_-_Anamanaguchi_Remix_Porter_Robinson,_Anamanaguchi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Your Wish",
+      "artist": "Essenger",
+      "has_synced": true,
+      "path": "select/10_Get_Your_Wish_Essenger.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Get Your Wish",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/11_Get_Your_Wish_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Your Wish (Porter Robinson Cover)",
+      "artist": "Essenger",
+      "has_synced": false,
+      "path": "select/12_Get_Your_Wish_(Porter_Robinson_Cover)_Essenger.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get Your Wish",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Get_Your_Wish_Porter_Robinson.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Get Your Wish",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/localdb_01_Get_Your_Wish_Porter_Robinson.lrc",
+      "repo_name": "4SZEDBFPpgw"
+    }
+  ]
+}
