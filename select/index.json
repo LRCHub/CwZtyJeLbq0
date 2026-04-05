@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Get Your Wish",
   "base_artist": "Porter Robinson",
-  "createdAt": "2026-04-05T01:42:28.428575Z",
+  "createdAt": "2026-04-05T01:48:59.141332Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -116,6 +116,15 @@
       "has_synced": true,
       "path": "select/localdb_01_Get_Your_Wish_Porter_Robinson.lrc",
       "repo_name": "4SZEDBFPpgw"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Get Your Wish",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/localdb_02_Get_Your_Wish_Porter_Robinson.lrc",
+      "repo_name": "CwZtyJeLbq0"
     }
   ]
 }
